@@ -75,3 +75,14 @@ Bear in mind, it is always possible that at least some portion of the unencrypte
 The purpose of androidqf is to facilitate the ***consensual forensic analysis*** of devices of those who might be targets of sophisticated mobile spyware attacks, especially members of civil society and marginalized communities. We do not want androidqf to enable privacy violations of non-consenting individuals. Therefore, the goal of this license is to prohibit the use of androidqf (and any other software licensed the same) for the purpose of *adversarial forensics*.
 
 In order to achieve this androidqf is released under [MVT License 1.1](https://license.mvt.re/1.1/), an adaptation of [Mozilla Public License v2.0](https://www.mozilla.org/MPL). This modified license includes a new clause 3.0, "Consensual Use Restriction" which permits the use of the licensed software (and any *"Larger Work"* derived from it) exclusively with the explicit consent of the person/s whose data is being extracted and/or analysed (*"Data Owner"*).
+
+## MISC
+
+https://securitylab.amnesty.org/latest/2023/09/fellowship-apkqf-simplifying-android-forensics/
+https://securitylab.amnesty.org/tools-and-guides/
+https://sourceforge.net/projects/mobile-verification-tk.mirror/
+
+https://amnesty.dk/wp-content/uploads/media/3535/forensicanalysissecureworks.pdf
+https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+https://imazing.com/blog/detecting-pegasus-spyware-with-imazing
+
